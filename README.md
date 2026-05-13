@@ -62,6 +62,9 @@ Columns Used:
 
  ↓  **Visualization & Dashboard**
    (Streamlit Web Application)
+
+ ## Dashboard 
+ ![Dashboard Screenshot](Dashboard.png.png)
   
 ## Design Decisions
 
